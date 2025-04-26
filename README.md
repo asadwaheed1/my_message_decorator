@@ -14,6 +14,4 @@
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/7JWhMSvG/uv-run.png)
-
-
+![App Screenshot](https://github.com/user-attachments/assets/59eb8e2a-d11a-44c2-b12c-fb7f2aa0fc77)
